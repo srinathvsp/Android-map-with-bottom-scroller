@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/add"
+                android:title="Add vehicle "
+                android:icon="@drawable/ic_add_black_24dp"/>
+            <item
+                android:id="@+id/park"
+                android:title="Park"
+                android:icon="@drawable/park"/>
+            <item
+                android:id="@+id/find"
+                android:title="Find a Spot"
+                android:icon="@drawable/find"/>
+            <item
+                android:id="@+id/logout"
+                android:title="Logout"
+                android:icon="@drawable/out"/>
+        </group>
+    </group>
+</menu>

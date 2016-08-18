@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NCP</string>
+    <string name="action_settings">Settings</string>
+    <!--for SIGN IN-->
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="already_registered">Already have an account? Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="different_login">or</string>
+
+    <!--End for SIGN IN-->
+
+    <string name="create_account">Register</string>
+    <string name="action_recover">Recover</string>
+    <string name="remembered_password">Just remembered it?</string>
+    <string name="error_field_required">Required</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="password">Password</string>
+    <string name="error_invalid_password">The password is too short</string>
+    <string name="title_activity_landing">LandingActivity</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="title_activity_add_vehicle">AddVehicleActivity</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_activity_stepper_indicator">StepperIndicator</string>
+    <string name="title_activity_fragment_indicator">FragmentIndicator</string>
+    <string name="title_activity_circularfrgment">CircularfrgmentActivity</string>
+
+    <string name="image_text_uno">Uno</string>
+    <string name="image_text_dos">Dos</string>
+    <string name="image_text_tres">Tres</string>
+</resources>
